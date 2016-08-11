@@ -1,2 +1,2 @@
 # PythonUtils
-Set Of Utils I have developed In Python In order make work simpler
+Set of utilities I have developed In Python in order make work simpler.
